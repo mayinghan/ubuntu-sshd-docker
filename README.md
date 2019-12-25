@@ -1,5 +1,5 @@
 # ubuntu-sshd-docker
-A docker image which will build a docker with latest ubuntu including ssh server, git, emacs
+A docker image which will build a container of the latest ubuntu including ssh server, git, emacs
 
 ## How to use
 1. Go inside the directory containing this Dockerfile and 
